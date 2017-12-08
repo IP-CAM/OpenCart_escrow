@@ -1,0 +1,12 @@
+{
+  "name": "oc_stellar_escrow",
+  "version": "0.1.0",
+  "description": "Process collected escrow transactions collected with OpenCart Stellar Payment Plugin",
+  "main": "app.js",
+  "author": "sacarlson",
+  "license": "ISC",
+  "dependencies": { 
+    "mysql": "^2.12.0",
+    "stellar-sdk": "0.7.3"
+  }
+}
